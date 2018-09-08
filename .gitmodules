@@ -1,0 +1,3 @@
+[submodule ".gitattributes"]
+	path = .gitattributes
+	url = https://github.com/NickCraver/BadIdeas.git
